@@ -1,0 +1,3 @@
+[submodule "human-gov-application"]
+	path = human-gov-application
+	url = https://github.com/Abhinav7264/AWSapplication.git
